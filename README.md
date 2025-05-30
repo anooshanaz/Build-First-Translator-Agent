@@ -1,4 +1,4 @@
-# 🌐 Translator Agent — English to Urdu AI Agent 🇬🇧➡️🇵🇰
+# 🌐 Translator Agent — English to Urdu AI Agent
 
 **Alhamdulillah!** I’m happy to share that I’ve built my **first AI agent**, and this marks the beginning of my exciting journey into the world of autonomous AI. 🚀✨
 
